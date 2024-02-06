@@ -64,3 +64,10 @@ The project addresses the following questions:
 - `requests`
 - `BeautifulSoup`
 - `matplotlib`
+
+## Screenshots
+<img width="610" alt="Screenshot 2024-02-06 223801" src="https://github.com/Ayushmi-Adh/Extracting-Stock-Data-Using-a-Web-Scraping/assets/132826306/c086e851-0ff7-4af9-8804-1d101244a587">
+<img width="593" alt="Screenshot 2024-02-06 223823" src="https://github.com/Ayushmi-Adh/Extracting-Stock-Data-Using-a-Web-Scraping/assets/132826306/4edbba34-f5f0-448f-b660-5b8c6d38c77e">
+<img width="573" alt="Screenshot 2024-02-06 223845" src="https://github.com/Ayushmi-Adh/Extracting-Stock-Data-Using-a-Web-Scraping/assets/132826306/f3fe3619-a632-48ac-aa4b-a682b77c44e8">
+<img width="566" alt="Screenshot 2024-02-06 223858" src="https://github.com/Ayushmi-Adh/Extracting-Stock-Data-Using-a-Web-Scraping/assets/132826306/12613790-fd7a-488c-a38f-84dce4295deb">
+
