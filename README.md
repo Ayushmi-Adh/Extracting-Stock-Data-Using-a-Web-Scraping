@@ -36,7 +36,7 @@ The following steps are followed for extracting stock data:
 4. Utilize `BeautifulSoup` methods to extract the data.
 5. Print the extracted data.
 
-## Data Extraction and Visualization
+## Data Extraction and Visualization:
 
 The project includes the extraction of essential stock data using `yfinance` and web scraping techniques. The extracted data is then visualized through graphs for better analysis.
 
