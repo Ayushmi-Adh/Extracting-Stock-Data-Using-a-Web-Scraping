@@ -40,7 +40,7 @@ The following steps are followed for extracting stock data:
 
 The project includes the extraction of essential stock data using `yfinance` and web scraping techniques. The extracted data is then visualized through graphs for better analysis.
 
-## Define a Function for Making Graphs
+## Define a Function for Making Graphs:
 
 A function is defined to facilitate the creation of graphs based on the extracted data.
 
