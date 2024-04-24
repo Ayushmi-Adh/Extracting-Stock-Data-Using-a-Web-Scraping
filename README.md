@@ -49,7 +49,7 @@ A function is defined to facilitate the creation of graphs based on the extracte
 The project addresses the following questions:
 
 - [Question 1: Use yfinance to Extract Stock Data](#question-1-use-yfinance-to-extract-stock-data)
-- [Question 2: Use Webscraping to Extract Tesla Revenue Data](#question-2-use-webscraping-to-extract-tesla-revenue-data)
+- [Question 2: Use Web scraping to Extract Tesla Revenue Data](#question-2-use-webscraping-to-extract-tesla-revenue-data)
 - [Question 3: Use yfinance to Extract Stock Data](#question-3-use-yfinance-to-extract-stock-data)
 - [Question 4: Use Webscraping to Extract GME Revenue Data](#question-4-use-webscraping-to-extract-gme-revenue-data)
 - [Question 5: Plot Tesla Stock Graph](#question-5-plot-tesla-stock-graph)
