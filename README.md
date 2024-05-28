@@ -24,7 +24,7 @@ This project involves extracting and visualizing stock data using Python. The ta
 
 ## Introduction:
 
-As a data scientist working for a hedge fund, the task is to extract and analyze stock data using Python. The project involves using the `yfinance` library for stock data extraction and web scraping for revenue data extraction. The extracted data is then visualized through graphs to facilitate better decision-making.
+As a data scientist working for a hedge fund, the task is to extract and analyze stock data using Python. The project involves using the `yfinance` library for stock data extraction and web scraping for revenue data extraction. The extracted data is then visualized through graphs to facilitate better decision-making..
 
 ## Steps for Extracting Data:
 
