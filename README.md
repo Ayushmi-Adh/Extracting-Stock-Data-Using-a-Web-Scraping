@@ -1,6 +1,6 @@
 # Stock Data Extraction and Visualization Project:
 
-This project involves extracting and visualizing stock data using Python. The tasks include utilizing the `yfinance` library to extract stock information, historical share price data, and historical dividends data. Additionally, web scraping is employed to extract revenue data for Tesla and GameStop. The extracted data is then visualized in graphs using the `matplotlib` library.
+This project involves extracting and visualizing stock data using Python. The tasks include utilizing the `yfinance` library to extract stock information, historical share price data, and historical dividends data. Additionally, web scraping is employed to extract revenue data for Tesla and GameStop. The extracted data is then visualized in graphs using the `matplotlib` library..
 
 ![AI-in-Stock-Market](https://github.com/Ayushmi-Adh/Extracting-Stock-Data-Using-a-Web-Scraping/assets/132826306/6900ddb7-ab50-4aa1-adc6-43a446a9f989)
 
