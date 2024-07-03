@@ -42,7 +42,7 @@ The project includes the extraction of essential stock data using `yfinance` and
 
 ## Define a Function for Making Graphs:
 
-A function is defined to facilitate the creation of graphs based on the extracted data.
+A function is defined to facilitate the creation of graphs based on the extracted data..
 
 ## Questions
 
